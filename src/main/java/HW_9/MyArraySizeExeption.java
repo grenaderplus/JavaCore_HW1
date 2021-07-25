@@ -1,4 +1,5 @@
 package HW_9;
 
-public class MyArraySizeExeption {
+public class MyArraySizeExeption extends RuntimeException {
+
 }
